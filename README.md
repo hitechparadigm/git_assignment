@@ -10,14 +10,7 @@ c. How do I open up a pull request?
 Make your changes in a feature branch
 Push your feature branch to the remote repository
 Create the pull request
----- go to GitHub
----- click for New pull request
----- Click on the button to start the pull request creation process
-Configure the pull reques
---- Ensure the "base" branch (the branch you want to merge into) is correct
----- Ensure the "compare" branch (your feature branch) is correct.
----- Add a title and description for the pull request, explaining the changes you've made.
---- Review the list of commits and files changed to ensure they are correct.
+Configure the pull request
 Submit the pull reques
 
 d. Give me a step by step guide on how to add someone to your repository.
@@ -33,4 +26,4 @@ g. What is the main branch?
 Main or master is default branch when you create a repository. GitHub now use main as it's default branch.
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-If you make changes directly in the main branch without creating a separate branch, you risk overwriting other developers' changes, losing your work, or introducing bugs in your code. This can cause delays in your development process, and it can be frustrating for your team members.
+If you make changes directly in the main branch without creating a separate branch, you risk overwriting other collaborators' changes, losing your work, or introducing bugs in your code. This can cause delays in your development process, and it can be frustrating for your team members.
